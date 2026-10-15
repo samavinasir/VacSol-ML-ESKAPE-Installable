@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>VacSol-ML (ESKAPE)</h1>
+<img src="assets/vacsol-logo.png" alt="VacSol-ML (ESKAPE)" width="320">
 
 ### Machine-Learning-Driven Vaccine Target Discovery for ESKAPE Pathogens
 
