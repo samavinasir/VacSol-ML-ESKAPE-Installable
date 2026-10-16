@@ -126,7 +126,7 @@ VacSol-ML is part of a growing set of open tools for computational vaccine and a
 | [**ProteoAnnot**](https://github.com/samavinasir/proteoannot) | Standalone protein annotation package extracted from the VacSol-ML annotation engine, computing biological and physicochemical features from FASTA sequences. |
 | [**ESKAPE AMP Database**](https://github.com/samavinasir?tab=repositories) | ESKAPE pathogen-targeted antimicrobial peptide database, extracted from VacSol-ML(ESKAPE). |
 | [**B-vac**](https://samavinasir.github.io/b-vac/) | Desktop application for reverse-vaccinology-based bacterial vaccine candidate discovery. |
-| [**B-vac.AI**] | Agentic AI for vaccine development (Coming Soon). |
+| **B-vac.AI** | Agentic AI for vaccine development (Coming Soon). |
 
 <a id="citation"></a>
 <h2><img src="assets/headings/citation.svg" alt="Citation" width="100%"></h2>
