@@ -7,8 +7,6 @@
 <a href="#quick-start"><img src="assets/btn/quickstart.svg" alt="Quick Start" height="40"></a>
 <a href="mailto:samavi.nasir@gmail.com"><img src="assets/btn/collab.svg" alt="Collaborate" height="40"></a>
 
-<img src="assets/highlights.svg" alt="6 ESKAPE pathogen groups · 3,650+ engineered features · 7 ML algorithms benchmarked · Peer-reviewed in Vaccine 2024" width="100%">
-
 </div>
 
 <a id="overview"></a>
