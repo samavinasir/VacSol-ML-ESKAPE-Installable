@@ -1,19 +1,11 @@
 <div align="center">
 
-<img src="assets/vacsol-logo.png" alt="VacSol-ML (ESKAPE)" width="320">
-
-### Machine-Learning-Driven Vaccine Target Discovery for ESKAPE Pathogens
-
-Feed in protein sequences. Get confidence-scored vaccine candidate predictions and the full immunological and physicochemical feature tables behind them, running locally and installable with a single command.
-
-<img src="assets/chips.svg" alt="Peer-reviewed in Vaccine 2024 · PyPI vacsol-ml · Python 3.10–3.12 · MIT License" height="46">
+<img src="assets/hero.svg" alt="VacSol-ML (ESKAPE): machine-learning-driven vaccine target discovery for ESKAPE pathogens" width="100%">
 
 <a href="https://pypi.org/project/vacsol-ml/"><img src="assets/btn/install.svg" alt="Install from PyPI" height="40"></a>
 <a href="https://doi.org/10.1016/j.vaccine.2024.126204"><img src="assets/btn/paper.svg" alt="Read the Paper" height="40"></a>
 <a href="#quick-start"><img src="assets/btn/quickstart.svg" alt="Quick Start" height="40"></a>
 <a href="mailto:samavi.nasir@gmail.com"><img src="assets/btn/collab.svg" alt="Collaborate" height="40"></a>
-
-<br>
 
 <img src="assets/highlights.svg" alt="6 ESKAPE pathogen groups · 3,650+ engineered features · 7 ML algorithms benchmarked · Peer-reviewed in Vaccine 2024" width="100%">
 
@@ -47,15 +39,8 @@ The result is a shortlist of proteins worth taking into the lab, **before** comm
 <h2><img src="assets/headings/workflow.svg" alt="How It Works" width="100%"></h2>
 
 <p align="center">
-  <img src="assets/workflow.png" alt="VacSol-ML workflow" width="100%">
+  <img src="assets/workflow-card.svg" alt="VacSol-ML workflow: ESKAPE proteomes, BLASTp filtering, feature annotation, preprocessing, autoencoder-based feature engineering, stratified 5-fold CV training, benchmarking and deployment" width="100%">
 </p>
-
-| Step | Stage | What happens |
-|:---:|---|---|
-| **1** | **Input** | Protein sequences are provided in FASTA format. |
-| **2** | **Feature extraction** | Immunological and physicochemical descriptors are computed for each sequence. |
-| **3** | **ML classification** | Trained models classify each protein as a vaccine candidate or non-candidate. |
-| **4** | **Output** | Predicted class, model confidence score, and downloadable feature tables. |
 
 **Under the hood.** The published framework was built on **3,650+ engineered sequence features** and **seven machine-learning algorithms** evaluated with stratified 5-fold cross-validation, then tested on an independent benchmark dataset. See the [paper](https://doi.org/10.1016/j.vaccine.2024.126204) for the full methodology and results.
 
